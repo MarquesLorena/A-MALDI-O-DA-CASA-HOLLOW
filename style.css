@@ -1,0 +1,71 @@
+body {
+  font-family: "Jolly Lodger", system-ui;
+  background-image: url("fundo.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  font-weight: 800;
+  text-shadow: 4px 4px 4px black;
+  font-size: 35px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+img{
+  max-width: 90%
+}
+
+footer{
+  font-family: "Creepster", system-ui;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 10px;
+  text-aling: center; 
+}
+
+.nomelink{
+  text-decoration: none;
+  color: white;
+}
+
+.nomelink:hover{
+  color: gray;
+  text-decoration: underline;
+  font-weight: 300;
+}
+
+button{
+ font-family: "Henny Penny", system-ui; 
+ font-size: 25px;
+ backround-color: white;
+ border: 1px solid black; 
+ color: black; 
+ margin: 20px;
+ border-radius: 200px;
+ padding: 15px;
+ text-shadow: 1px 2px 2px black; 
+}
+
+button:hover{
+  background-color: black;
+  border: 1px solid black;
+  font-weight: 800;
+  color: white;
+}
+
+main{
+  max-width: 90%;
+  text-alingn: center;
+  flex: 1;
+  padding: 1em;
+}
+
+.passo{
+  display: none;
+}
+
+.passo.ativo{
+  display: block;
+}

@@ -1,0 +1,93 @@
+PASSO 0 (INTRODUÇÃO)
+
+Em uma pequena vila cercada por densas florestas, havia uma antiga mansão conhecida como Casa Hollow. Com suas janelas quebradas e paredes descascadas, a mansão exalava um ar de mistério e desespero. Diziam que era assombrada pelos espíritos de pessoas que haviam desaparecido ao longo dos anos, e os moradores evitavam se aproximar. Apenas um grupo de amigos destemidos ousava enfrentar o desconhecido: Clara, Lucas, Sofia e Renato.
+
+Clara, a sonhadora, tinha longos cabelos castanhos e olhos verdes brilhantes. Sempre trazia um caderno para anotar suas aventuras e inventar histórias. Lucas, o ousado do grupo, era conhecido por sua cicatriz no queixo, resultado de suas travessuras. Sofia, a cautelosa, possuía um olhar perspicaz, sempre pronta para analisar cada situação antes de agir. Renato, o brincalhão, tinha um sorriso contagiante que aliviava a tensão, mesmo em momentos de medo.
+
+Certa noite, motivados pela curiosidade e pelo desejo de aventura, os amigos decidiram explorar a Casa Hollow. Armados com lanternas e coragem, atravessaram o portão enferrujado que rangia como se estivesse protestando contra sua presença. Ao entrarem, um frio cortante tomou conta do ar. As paredes estavam cobertas de poeira e teias de aranha, e um cheiro de mofo permeava o ambiente. No centro do salão, uma enorme escadaria subia para os andares superiores, envolta em sombras.
+
+Decidiram explorar o andar de baixo primeiro. Enquanto investigavam, descobriram uma sala com um antigo piano. Clara, atraída pela música, começou a tocar algumas notas. Para sua surpresa, o piano respondeu com uma melodia melancólica que parecia ecoar pela mansão. Assim que a música parou, um sussurro envolveu o ar, sussurrando seu nome. Todos se entreolharam, apavorados.
+
+BOTÃO 1: Clara decide seguir o sussurro.
+BOTÃO 2: O grupo decide sair imediatamente da sala.
+
+PASSO 1 (ESCOLHA DO BOTÃO 1)
+
+Clara, movida pela curiosidade, decidiu seguir o sussurro. “Eu sinto que precisamos descobrir o que é isso,” disse ela, com determinação. Lucas, Sofia e Renato hesitaram, mas acabaram concordando em acompanhá-la. O sussurro parecia guiá-los para um corredor escuro, onde as paredes estavam decoradas com retratos empoeirados de antigos moradores da casa.
+
+Enquanto caminhavam, Clara notou uma porta entreaberta no final do corredor. O sussurro se intensificava, como se estivesse vindo de lá. Ao se aproximarem, o ar ficou ainda mais gelado. A porta rangeu ao ser empurrada, revelando uma biblioteca coberta de poeira e livros empoeirados. No centro, uma velha mesa estava coberta por um lençol branco, e em cima dela, um diário estava aberto, como se alguém estivesse esperando por eles.
+
+BOTÃO 3: Clara lê o diário.
+BOTÃO 4: Clara decide ignorar o diário e procurar por mais pistas na biblioteca.
+
+PASSO 2 (ESCOLHA DO BOTÃO 2)
+
+O grupo, assustado, decidiu sair imediatamente da sala. Enquanto tentavam voltar, no entanto, uma porta se fechou com um estrondo, bloqueando a saída. O coração de todos disparou. Clara tentou empurrar a porta, mas era como se estivesse presa por uma força invisível.
+
+“Precisamos encontrar uma saída”, disse Sofia, olhando ao redor. Mas as sombras pareciam se fechar sobre eles, e um frio intenso tomou conta do ambiente. De repente, um grito ecoou do andar de cima, fazendo todos estremecerem.
+
+BOTÃO 5: O grupo decide investigar o som do grito.
+BOTÃO 6: O grupo tenta forçar a porta para sair.
+
+PASSO 3 (ESCOLHA DO BOTÃO 3)
+
+Clara, movida pela curiosidade, começou a ler o diário. As páginas estavam amareladas e cheias de anotações tremidas. O diário pertencia a uma jovem chamada Isadora, que descrevia os horrores vividos na mansão: desaparecimentos misteriosos, sussurros que a chamavam à noite e visões de sombras se movendo pelos corredores.
+
+À medida que Clara lia, uma sensação de medo e urgência crescia. Ela leu sobre um segredo guardado na mansão, algo que poderia libertar os espíritos aprisionados. O diário terminava abruptamente, como se a autora tivesse sido interrompida.
+
+BOTÃO 9: Clara decide procurar o que Isadora mencionou no diário.
+BOTÃO 10: O grupo se assusta e decide sair imediatamente da biblioteca.
+
+PASSO 4 (ESCOLHA DO BOTÃO 4)
+
+Decidindo ignorar o diário, Clara e os amigos começaram a explorar a biblioteca em busca de mais pistas. Enquanto examinavam as estantes, Renato encontrou um livro com uma capa em couro desgastada. Ao abri-lo, uma chave antiga caiu no chão, fazendo um barulho ecoar pela sala.
+
+“Olhem isso!” exclamou Renato, segurando a chave. “Acho que pode ser a chave para alguma porta aqui.” O grupo se animou, a tensão dissipando-se um pouco. Eles decidiram procurar uma porta que pudesse ser destrancada com a chave.
+
+Após alguns minutos de busca, encontraram uma porta de madeira pesada no final da biblioteca. Com as mãos tremendo de expectativa, Renato inseriu a chave na fechadura e a girou. Com um estalo, a porta se abriu, revelando um quarto secreto iluminado por uma luz suave. No centro, um cristal brilhava intensamente, pulsando como se tivesse vida própria.
+
+GANHOU!
+Os amigos conseguiram descobrir o segredo da mansão e libertar os espíritos aprisionados, transformando a Casa Hollow em um lugar de paz e descanso, livre de medos e mistérios.
+
+PASSO 5 (ESCOLHA DO BOTÃO 5)
+
+Decidindo investigar o som do grito, o grupo subiu a escada rangente, os corações acelerados. O eco do grito os guiou até um longo corredor que levava a um quarto escuro, onde uma luz tênue se filtrava por uma janela quebrada. Ao entrarem, encontraram uma figura de uma mulher, com um olhar desesperado.
+
+Ela se virou, revelando ser Isadora, a autora do diário. “Ajude-me!” implorou ela. “Estou presa aqui! Para me libertar, vocês devem resolver o enigma do espírito guardião!”
+
+BOTÃO 7: O grupo tenta ajudar Isadora a resolver o enigma.
+BOTÃO 8: O grupo decide fugir do quarto, apavorado.
+
+PASSO 6 (ESCOLHA DO BOTÃO 6)
+
+Tentando forçar a porta para sair, o grupo percebeu que estava cercado. Um vento forte soprou pela mansão, e as luzes começaram a piscar. A porta, mesmo sob a pressão deles, não se movia. O medo os envolveu, e quando finalmente conseguiram abrir, foram surpreendidos por uma escuridão densa.
+
+“Estamos presos!” gritou Lucas, enquanto sombras dançavam ao seu redor. Um grito ensurdecedor ecoou, e a mansão pareceu se fechar sobre eles. O grupo ficou paralisado, sem saber o que fazer.
+
+PERDEU!
+A Casa Hollow havia reivindicado mais almas, e os amigos nunca foram vistos novamente.
+
+PASSO 7 (ESCOLHA DO BOTÃO 7)
+
+Decidindo ajudar Isadora, o grupo se concentrou no enigma que ela mencionou. “O espírito guardião tem um coração de pedra e vive em uma caverna de sombras”, disse ela, suas palavras reverberando no ar.
+
+Após uma breve discussão, Clara sugeriu que talvez a solução estivesse nos objetos ao redor. Renato encontrou uma série de pedras que pareciam formar um padrão. Com a ajuda de Sofia e Lucas, eles começaram a reorganizá-las.
+
+A luz começou a brilhar intensamente, e uma passagem secreta se abriu na parede. Isadora sorriu, finalmente livre. “Obrigada! Agora, a mansão pode descansar em paz!” Ela desapareceu em uma luz cintilante, levando consigo as sombras.
+
+GANHOU!
+Os amigos conseguiram resolver o enigma e libertar a alma de Isadora, trazendo paz à Casa Hollow e assegurando que suas próprias almas estivessem a salvo.
+
+PASSO 8 - VOLTA PARA PASSO 1
+
+Após a aventura, Clara, Lucas, Sofia e Renato decidiram voltar ao início da mansão, determinados a explorar novas salas e segredos. O que mais a Casa Hollow escondia?
+
+BOTÃO 1: Clara decide seguir o sussurro novamente.
+BOTÃO 2: O grupo decide sair da mansão e nunca mais voltar.
+
+PASSO 9 - GANHOU
+
+O grupo decidiu seguir o sussurro novamente, confiante após a libertação de Isadora. Eles descobriram um tesouro escondido dentro da mansão, repleto de relíquias e segredos antigos,
+
+
+
